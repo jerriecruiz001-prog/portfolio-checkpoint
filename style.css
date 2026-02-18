@@ -5,14 +5,19 @@ body {
     background-color: #afbcea;
     font-family: 'Roboto', sans-serif;
 }
+
+
 nav {
     background-color: #6543bb;
-    padding: 1px;
+    padding:10px;
+    padding-left: px;
+    width: 100%;
     text-align: center;
     scroll-padding: 20px;
    word-spacing: 70px;
-   border-radius: 20px;
+   border-radius: px;
    display: inline-block;
+   margin-top: 0%;
 
    
    
